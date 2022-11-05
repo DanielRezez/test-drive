@@ -8,5 +8,5 @@ Olá! Seja bem vindo ao meu livro de receitas.
 
   
 
-<!--***Olá! Esse repositório foi feito apenas como uma prática de estudo do Git e Github. A receita foi tirada do website TudoGostoso, e pode ser útil para uma boa refeição... HeHe!*** -->
+***<u>Obs.: Olá! Esse repositório foi feito apenas como uma prática de estudo do Git e Github. A receita foi tirada do website TudoGostoso, e pode ser útil para uma boa refeição... HeHe!*** 
 
